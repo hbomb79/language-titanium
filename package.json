@@ -1,7 +1,7 @@
 {
   "name": "language-titanium",
   "main": "./lib/language-titanium",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Extending Lua language subset to support Titanium pre-processing syntax",
   "repository": "https://github.com/hbomb79/language-titanium",
   "license": "MIT",
