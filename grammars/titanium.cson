@@ -1,0 +1,19 @@
+'comment': 'Titanium: version 0.1'
+'fileTypes': [
+  'ti'
+]
+'name': 'Titanium'
+'patterns': [
+  {
+    'match': '(?<=class|mixin|alias|extends)(\\s+)\\b(\\w+)\\b'
+    'name': 'string.titanium'
+  }
+  {
+    'match': '\\b(class|mixin|abstract|extends|alias)\\b'
+    'name': 'support.titanium'
+  }
+  {
+    'include': 'source.lua'
+  }
+]
+'scopeName': 'source.titanium'
