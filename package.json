@@ -4,6 +4,7 @@
   "version": "0.3.0",
   "description": "Extending Lua language subset to support Titanium pre-processing syntax",
   "repository": "https://github.com/hbomb79/language-titanium",
+  "readmeFilename": "README.md",
   "license": "MIT",
   "engines": {
     "atom": ">=0.50.0"
